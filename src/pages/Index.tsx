@@ -17,16 +17,11 @@ const Index = () => {
       <Header />
       
       <main className="flex-grow">
-        {/* Hero Section */}
+        {/* Hero Section - Removed tagline and description */}
         <section className="w-full py-12 md:py-24">
           <div className="container">
             <div className="flex flex-col items-center text-center space-y-4">
-              <h1 className="text-4xl md:text-6xl font-medium tracking-tight text-brand-dark">
-                Minimal. Sustainable. Timeless.
-              </h1>
-              <p className="text-xl text-gray-600 max-w-2xl">
-                Discover fashion essentials designed with simplicity and sustainability in mind.
-              </p>
+              {/* Tagline and description removed from here */}
             </div>
           </div>
         </section>
