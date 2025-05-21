@@ -1,8 +1,8 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "off-wardrobe-link",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yourusername.github.io/off-wardrobe-link",
+  "homepage": "https://offcense.github.io/off-wardrobe-link",
   "type": "module",
   "scripts": {
     "dev": "vite",

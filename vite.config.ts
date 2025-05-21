@@ -16,5 +16,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/off-wardrobe-link/',
+  base: mode === 'production' ? '/off-wardrobe-link/' : '/',
 }));
