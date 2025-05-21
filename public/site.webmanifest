@@ -1,0 +1,14 @@
+{
+  "name": "Off - Minimalist Fashion",
+  "short_name": "Off",
+  "icons": [
+    {
+      "src": "/off_1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#80c41c",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 
