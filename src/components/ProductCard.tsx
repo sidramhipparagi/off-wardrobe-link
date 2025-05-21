@@ -15,7 +15,7 @@ const ProductCard = ({ imageUrl, name, shopUrl }: ProductCardProps) => {
       <div className="grid grid-cols-2">
         <div className="overflow-hidden">
           <img 
-            src={imageUrl} 
+            src="/placeholder.svg" 
             alt={name} 
             className="object-cover w-full h-full"
           />
