@@ -1,0 +1,104 @@
+{
+  "currentProduct": {
+    "id": "1",
+    "name": "JackandJones-White Knitted Oversized T-shirt",
+    "description": "This stylish JACK&JONES Crew Neck Tee is the perfect piece for any casual wardrobe.",
+    "price": 1274,
+    "imageUrl": "images/products/product-1.jpeg",
+    "shopUrl": "https://www.jackjones.in/jj-oversize/280182702-brilliant-white",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White"]
+  },
+  "previousProducts": [
+    {
+      "id": "2",
+      "name": "Heavy GSM 3/4th Sleeve T-Shirt | Beige",
+      "description": "A modern take on the classic Off-White t-shirt with diagonal arrows design.",
+      "price": 769,
+      "imageUrl": "images/products/product-2.jpeg",
+      "shopUrl": "https://wrogn.com/products/heavy-gsm-3-4th-sleeve-t-shirt-beige-wuts9013w-a",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Beige"]
+    },
+    {
+      "id": "3",
+      "name": "Basic Blue Heavyweight T-shirt",
+      "description": "Featuring the distinctive Off-White cross logo in a bold design.",
+      "price": 899,
+      "imageUrl": "images/products/product-3.jpeg",
+      "shopUrl": "https://wtflex.in/products/basic-blue-heavyweight-t-shirt",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Blue"]
+    },
+    {
+      "id": "4",
+      "name": "max-URB_N Men Relaxed Fit Solid T-shirt",
+      "description": "A comfortable wear for men in summers",
+      "price": 249,
+      "imageUrl": "images/products/product-4.jpeg",
+      "shopUrl": "https://www.myntra.com/tshirts/max/max-urbn-men-relaxed-fit-solid-t-shirt/30654936/buy",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White"]
+    },
+    {
+      "id": "5",
+      "name": "Mast & Harbour Printed Drop-Shoulder Sleeves Pure Cotton T-shirt",
+      "description": "A sleek t-shirt featuring the diagonal Off-White logo.",
+      "price": 285,
+      "imageUrl": "images/products/product-5.jpeg",
+      "shopUrl": "https://www.myntra.com/tshirts/mast+%26+harbour/mast--harbour-printed-drop-shoulder-sleeves-pure-cotton-t-shirt/30290748/buy",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Grey"]
+    },
+    {
+      "id": "6",
+      "name": "Levi's-Men's Graphic Loose Fit T-shirt",
+      "description": "Combining the cross and arrows motifs in a unique design.",
+      "price": 1259,
+      "imageUrl": "images/products/product-6.jpeg",
+      "shopUrl": "https://levi.in/collections/men-oversized-tshirts/products/mens-solid-loose-fit-t-shirt-a79000018",
+      "sizes": ["S","M", "L", "XL"],
+      "colors": ["White"]
+    },
+    {
+      "id": "7",
+      "name": "HM-Loose Fit Sweatshirt",
+      "description": "Top in lightweight sweatshirt fabric made from a cotton blend with a soft brushed inside.",
+      "price": 1499,
+      "imageUrl": "images/products/product-7.jpeg",
+      "shopUrl": "https://www2.hm.com/en_in/productpage.0970818065.html",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Dark Green"]
+    },
+    {
+      "id": "8",
+      "name": "Roadster-The Lifestyle Co Linen Relaxed-Fit Regular Trousers",
+      "description": "Cream-coloured solid relaxed-fit mid-rise regular trousers, has a partially elasticated waistband with drawstring closure",
+      "price": 979,
+      "imageUrl": "images/products/product-8.jpeg",
+      "shopUrl": "https://www.myntra.com/trousers/roadster/the-roadster-lifestyle-co-linen-relaxed-fit-regular-trousers/30063129/buy",
+      "sizes": ["28", "30", "32", "34"],
+      "colors": ["Cream"]
+    },
+    {
+      "id": "9",
+      "name": "Dennis Lingo-Men Loose Fit Cargos Trousers",
+      "description": "Green machine weave cargos Loose fit Mid-rise Length: regular",
+      "price": 1249,
+      "imageUrl": "images/products/product-9.jpeg",
+      "shopUrl": "https://www.myntra.com/trousers/dennis+lingo/dennis-lingo-men-loose-fit-cargos-trousers/28946128/buy",
+      "sizes": ["28", "30", "32", "34", "36"],
+      "colors": ["Gray"]
+    },
+    {
+      "id": "10",
+      "name": "HM-Loose Fit Sweatshirt",
+      "description": "Top in lightweight sweatshirt fabric made from a cotton blend with a soft brushed inside.",
+      "price": 1499,
+      "imageUrl": "images/products/product-10.jpeg",
+      "shopUrl": "https://www2.hm.com/en_in/productpage.0970818002.html",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Light grey marl"]
+    }
+  ]
+} 
